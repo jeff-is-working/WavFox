@@ -71,8 +71,8 @@ Download and install the [ESP32 Sketch Data Upload](https://github.com/me-no-dev
 ### 3. Clone This Repository
 
 ```bash
-git clone https://github.com/yourusername/fox-hunt-wav-player.git
-cd fox-hunt-wav-player
+git clone https://github.com/jeff-is-working/WavFox.git
+cd WavFox
 ```
 
 ### 4. Prepare Your Audio
